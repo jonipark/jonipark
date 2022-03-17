@@ -1,19 +1,15 @@
 ### Hi there I'm Joni!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeun-park)](https://www.linkedin.com/in/joeun-park)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:park49j@mtholyoke.edu)](mailto:park49j@mtholyoke.edu)
+
 🔭 I’m currently working on ...
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hi-hemini&repo=mohoho)](https://github.com/hi-hemini/mohoho)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CSSociety-MHC&repo=cssociety-react)](https://github.com/CSSociety-MHC/cssociety-react)
-
-&&
-- A smart mirror project using Raspberry pi
+&& A smart mirror project using Raspberry pi
 
 🌱 I’m currently learning ...
 C++ (Udemy) | Machine Learning (Coursera)
-
-📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeun-park)](https://www.linkedin.com/in/joeun-park)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:park49j@mtholyoke.edu)](mailto:park49j@mtholyoke.edu)
-
 
 ### Languages && Technologies
 
