@@ -31,5 +31,6 @@ and... **A smart mirror project using Raspberry pi!**
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonipark&layout=compact&text_color=000000&bg_color=fafafa&hide=css,html,php)](https://github.com/jonipark/github-readme-stats)
+![Joni's github stats](https://github-readme-stats.vercel.app/api?username=jonipark&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonipark&title_color=ffc857&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/jonipark/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonipark&layout=compact&text_color=000000&bg_color=fafafa&hide=css,html,php)](https://github.com/jonipark/github-readme-stats) -->
