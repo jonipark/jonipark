@@ -32,3 +32,4 @@ and... **A smart mirror project using Raspberry pi!**
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonipark&layout=compact&text_color=000000&bg_color=fafafa&hide=css,html,php)](https://github.com/jonipark/github-readme-stats)
