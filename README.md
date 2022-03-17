@@ -1,4 +1,4 @@
-## Hi, my name is Joni 👋 and I ❤️ exploring new technologies!
+### Hi, my name is Joni 👋 and I ❤️ exploring new technologies!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeun-park)](https://www.linkedin.com/in/joeun-park)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:park49j@mtholyoke.edu)](mailto:park49j@mtholyoke.edu)
 - COMPSCI major @ MHC
