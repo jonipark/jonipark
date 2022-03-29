@@ -19,7 +19,7 @@
 and... **A smart mirror project using Raspberry pi!**
 
 ### I’m currently learning ...
-- C++ (Udemy)
+- C++ ([Udemy](https://www.udemy.com/course/datastructurescncpp/))
 - Deep Learning (Coursera)
 
 ### Technologies
