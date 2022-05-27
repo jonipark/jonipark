@@ -4,7 +4,7 @@
 [![Coffee Badge](https://img.shields.io/badge/-buymeacoffee-critical?style=flat-round&link=https://www.buymeacoffee.com/zeepada)](https://www.buymeacoffee.com/zeepada)
 
 - COMPSCI major @ MHC
-- Incoming SWE intern @ Brex
+- SWE intern @ Brex
 ### 
 - 🧐 **Field of interests**: AR/VR, Computer Vision, iOS
 - 💬 **Talk to me about** interesting project ideas, startups
