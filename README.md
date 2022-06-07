@@ -21,6 +21,7 @@ and... **A smart mirror project using Raspberry pi!**
 ### I’m currently learning ...
 - React Native
 - Typescript
+- GraphQL
 
 ### Technologies
 
