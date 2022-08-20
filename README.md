@@ -6,7 +6,7 @@
 - COMPSCI major @ MHC
 - SWE intern @ Brex
 ### 
-- 🧐 **Field of interests**: AR/VR, Computer Vision, iOS
+- 🧐 **Field of interests**: Mobile dev(React Native, iOS-Swift), Web dev(React) AR/VR, Computer Vision
 - 💬 **Talk to me about** interesting project ideas, startups
 - 👯 **We can connect** to play Overwatch OR board games! I love Tichu :)
 - ⚡ **Fun fact**: J'étudie le français 🇫🇷
