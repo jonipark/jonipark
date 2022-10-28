@@ -1,14 +1,15 @@
-### Hi, my name is Joni 👋 and I ❤️ exploring new technologies!
+### Hi, my name is Joni 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeun-park)](https://www.linkedin.com/in/joeun-park)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:park49j@mtholyoke.edu)](mailto:park49j@mtholyoke.edu)
 [![Coffee Badge](https://img.shields.io/badge/-buymeacoffee-critical?style=flat-round&link=https://www.buymeacoffee.com/zeepada)](https://www.buymeacoffee.com/zeepada)
 
 [Portfolio Website 💾 (built with React)](https://portfolio-84f1d.web.app/)
 
-- COMPSCI major @ MHC
-- SWE intern @ Brex
+- COMPSCI major
+- SWE intern @Brex
+- TPM intern @Ringle
 ### 
-- 🧐 **Field of interests**: Mobile dev(React Native, iOS-Swift), Web dev(React) AR/VR, Computer Vision
+- 🧐 **Field of interests**: Mobile dev(React Native, iOS-Swift), Web dev(React), Blockchain AR/VR, Computer Vision
 - 💬 **Talk to me about** interesting project ideas, startups
 - 👯 **We can connect** to play Overwatch OR board games! I love Tichu :)
 - ⚡ **Fun fact**: J'étudie le français 🇫🇷 et j'aime courir 🏃🏻‍♀️
