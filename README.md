@@ -9,7 +9,7 @@
 - SWE intern @Brex
 - TPM intern @Ringle
 ### 
-- 🧐 **Field of interests**: Mobile dev(React Native, iOS-Swift, Android-Kotlin), Web dev(React), Blockchain AR/VR, Computer Vision
+- 🧐 **Field of interests**: Web3, Blockchain, Mobile dev(React Native, iOS-Swift, Android-Kotlin), Web dev(React), AR/VR, Computer Vision
 - 💬 **Talk to me about** interesting project ideas, startups
 - 👯 **We can connect** to play Overwatch OR board games! I love Tichu :)
 - ⚡ **Fun fact**: J'étudie le français 🇫🇷 et j'aime courir 🏃🏻‍♀️
