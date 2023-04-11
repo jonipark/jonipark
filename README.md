@@ -15,9 +15,11 @@
 - ⚡ **Fun fact**: J'étudie le français 🇫🇷 et j'aime courir 🏃🏻‍♀️
 
 ### I’m currently working on ...
+- **GmailGPT: Chrome extension**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TechTogetherInc&repo=TechTogetherBoston-2022)](https://github.com/TechTogetherInc/TechTogetherBoston-2022)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gomjellie&repo=react-native-timetable)](https://github.com/gomjellie/react-native-timetable)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonipark&repo=voyager-journey)](https://github.com/jonipark/voyager-journey)
+
 
 ### I’m currently learning ...
 - React Native
