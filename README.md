@@ -3,9 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:park49j@mtholyoke.edu)](mailto:park49j@mtholyoke.edu)
 [![Coffee Badge](https://img.shields.io/badge/-buymeacoffee-critical?style=flat-round&link=https://www.buymeacoffee.com/zeepada)](https://www.buymeacoffee.com/zeepada)
 
-[Portfolio Website 💾 (built with React)](https://portfolio-84f1d.web.app/)
+[Portfolio Website 💾 - built with React](https://portfolio-84f1d.web.app/)
 
 - COMPSCI major
+- SWE intern @Outrider
 - SWE intern @Brex
 - TPM intern @Ringle
 ### 
@@ -17,28 +18,26 @@
 ### I’m currently working on ...
 - **GmailGPT: Chrome extension**
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonipark&repo=stardew-mine)](https://github.com/jonipark/stardew-mine)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonipark&repo=voyager-journey)](https://github.com/jonipark/voyager-journey)
 
-
 ### I’m currently learning ...
-- React Native
-- Typescript
-- GraphQL
+- AR/VR
+- Computer Vision
 
 ### Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=ReactNative)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-
 
 ![Joni's github stats](https://github-readme-stats.vercel.app/api?username=jonipark&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonipark&title_color=ffc857&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/jonipark/github-readme-stats)
