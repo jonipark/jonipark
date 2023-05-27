@@ -19,7 +19,6 @@
 - **GmailGPT: Chrome extension**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonipark&repo=stardew-mine)](https://github.com/jonipark/stardew-mine)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonipark&repo=voyager-journey)](https://github.com/jonipark/voyager-journey)
 
 ### I’m currently learning ...
 - AR/VR
