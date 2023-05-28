@@ -1,4 +1,4 @@
-### Hi, my name is Joni 👋
+### Hi, this is Joni's crafting space 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joeun-park)](https://www.linkedin.com/in/joeun-park)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:park49j@mtholyoke.edu)](mailto:park49j@mtholyoke.edu)
 [![Coffee Badge](https://img.shields.io/badge/-buymeacoffee-critical?style=flat-round&link=https://www.buymeacoffee.com/zeepada)](https://www.buymeacoffee.com/zeepada)
