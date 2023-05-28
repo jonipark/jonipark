@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:park49j@mtholyoke.edu)](mailto:park49j@mtholyoke.edu)
 [![Coffee Badge](https://img.shields.io/badge/-buymeacoffee-critical?style=flat-round&link=https://www.buymeacoffee.com/zeepada)](https://www.buymeacoffee.com/zeepada)
 
-[Portfolio Website 💾 - built with React](https://portfolio-84f1d.web.app/)
+[Portfolio Website 💾](https://www.jonipark.space/)
 
 - COMPSCI major
 - SWE intern @Outrider
