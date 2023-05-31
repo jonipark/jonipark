@@ -31,8 +31,7 @@
 
 ### I’m currently working on ...
 - **GmailGPT: Chrome extension**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonipark&repo=stardew-mine)](https://github.com/jonipark/stardew-mine)
+- **Todil**: Today I Learned recording platform - React, MacOS, (possibly iOS in the future)
 
 ### I’m currently learning ...
 - AR/VR
