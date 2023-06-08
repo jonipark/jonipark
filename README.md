@@ -12,7 +12,7 @@
 ### 
 - 🧐 **Field of interests**: Mobile(React Native, iOS-Swift, Android-Kotlin), Frontend(React), AR/VR, Computer Vision, Gaming, Fintech
 - 💬 **Talk to me about** interesting project ideas
-- 👯 **We can connect** to play Overwatch OR board games! I love Tichu :)
+- 👯 **We can connect** to play Overwatch OR board games! I love Avalon and Tichu :)
 - ⚡ **Fun fact**: J'étudie le français 🇫🇷 et j'aime courir 🏃🏻‍♀️
 
 ### Technologies
