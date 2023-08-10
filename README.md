@@ -30,11 +30,9 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 
 ### I’m currently working on ...
-- **GmailGPT: Chrome extension**
-- **Todil**: Today I Learned recording platform - React, MacOS, (possibly iOS in the future)
+- **Todil**: Today I Learned recording platform - React, (possibly MacOS, iOS in the future)
 
 ### I’m currently learning ...
 - AR/VR
-- Computer Vision
 
 
