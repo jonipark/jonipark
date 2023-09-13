@@ -5,12 +5,8 @@
 
 [Portfolio Website 💾](https://www.jonipark.space/)
 
-- COMPSCI major
-- SWE intern @Outrider
-- SWE intern @Brex
-- TPM intern @Ringle
 ### 
-- 🧐 **Field of interests**: Mobile(React Native, iOS-Swift, Android-Kotlin), Frontend(React), AR/VR, Computer Vision, Gaming, Fintech
+- 🧐 **Field of interests**: Mobile(React Native, iOS-Swift, Android-Kotlin), Frontend(React), AR/VR, Computer Vision, Gaming
 - 💬 **Talk to me about** interesting project ideas
 - 👯 **We can connect** to play Overwatch OR board games! I love Avalon and Tichu :)
 - ⚡ **Fun fact**: J'étudie le français 🇫🇷 et j'aime courir 🏃🏻‍♀️
