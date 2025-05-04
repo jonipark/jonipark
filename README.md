@@ -6,29 +6,23 @@
 [Portfolio Website 💾](https://www.jonipark.space/)
 
 ### 
-- 🧐 **Field of interests**: Mobile(React Native, iOS-Swift, Android-Kotlin), Frontend(React), AR/VR, Computer Vision, Gaming
+- 🧐 **Field of interests**: Mobile(iOS/macOS SwiftUI, React Native, Android-Kotlin), Frontend(React), AR/VR, Computer Vision, Gaming
 - 💬 **Talk to me about** interesting project ideas
 - 👯 **We can connect** to play Overwatch OR board games! I love Avalon and Tichu :)
 - ⚡ **Fun fact**: J'étudie le français 🇫🇷 et j'aime courir 🏃🏻‍♀️
 
 ### Technologies
 
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=ReactNative)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 
-### I’m currently working on ...
-- **Todil**: Today I Learned recording platform - React, (possibly MacOS, iOS in the future)
-
-### I’m currently learning ...
-- AR/VR
-
-
+### I’m interested in ...
+- Spatial Computing or next gen mobile device and os
